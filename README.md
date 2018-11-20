@@ -30,3 +30,5 @@ Topic modeling using Latent Dirichlet Allocation (Advanced)
 
 Practical projects:
 1) Twitter Sentiment analysis in python 
+
+2) Building a "fake news" classifier (Comming soon...)
