@@ -27,3 +27,6 @@ Building a sentiment analyzer (movie review is positive or negative)
 
 
 Topic modeling using Latent Dirichlet Allocation (Advanced)
+
+Practical projects:
+1) Twitter Sentiment analysis in python 
